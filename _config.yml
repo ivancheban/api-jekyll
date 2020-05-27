@@ -6,7 +6,7 @@ description: Ivan's Jekyll template for API documentation.
 url: https://api-jekyll.netlify.app/
 google_analytics_key:
 permalink: pretty
-baseurl: '/'
+baseurl: 
 
 # -----
 # Build
