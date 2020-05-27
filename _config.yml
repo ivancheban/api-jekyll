@@ -4,7 +4,7 @@
 title: API Jekyll
 description: Ivan's Jekyll template for API documentation.
 url: https://api-jekyll.netlify.app/
-google_analytics_key:
+google_analytics_key: UA-162550995-20
 permalink: pretty
 baseurl: 
 
